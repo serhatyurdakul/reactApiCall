@@ -1,0 +1,26 @@
+.App {
+  padding: 10px;
+}
+
+.search-div {
+  border: 1px solid rgb(51, 179, 222);
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.search-div form {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-list {
+  columns: 250px 5;
+  column-gap: 10px;
+}
+
+.image-list-img {
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
